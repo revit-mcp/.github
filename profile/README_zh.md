@@ -24,6 +24,6 @@ revit-mcp 是一个基于 Revit 软件的 mcp 协议实现框架。允许通过�
 
 ### 加入我们
 
-你可以通过[Discord](https://discord.gg/cGzUGurq)或者[QQ群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=kLnQiFVtYBytHm7R58KFoocd3mzU_9DR&authKey=fyXDOBmXP7FMkXAWjddWZumblxKJH7ZycYyLp40At3t9%2FOfSZyVO7zyYgIROgSHF&noverify=0&group_code=792379482)联系我们，期待与你共同建设项目。
+你可以通过[Discord](https://discord.gg/EYZFN9Xb4J)或者[QQ群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=kLnQiFVtYBytHm7R58KFoocd3mzU_9DR&authKey=fyXDOBmXP7FMkXAWjddWZumblxKJH7ZycYyLp40At3t9%2FOfSZyVO7zyYgIROgSHF&noverify=0&group_code=792379482)联系我们，期待与你共同建设项目。
 
 **祝你玩得愉快！**
